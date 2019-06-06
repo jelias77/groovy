@@ -1,0 +1,5 @@
+def m9 =  MA(close(),9, 1);
+def m21 =  MA(close(),21, 1);
+
+r=m9;
+assert (r);
